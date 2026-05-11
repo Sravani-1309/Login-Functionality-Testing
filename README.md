@@ -233,19 +233,3 @@ Through this project, the following concepts were learned:
 
 ---
 
-# Future Improvements
-
-The following enhancements can be added in future:
-
-* Page Object Model (POM)
-* Data-driven testing
-* Cross-browser testing
-* Extent Reports
-* Screenshot capture on failure
-* Jenkins integration
-
----
-
-# Author
-
-Sravani Reddy
