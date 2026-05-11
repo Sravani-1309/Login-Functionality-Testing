@@ -151,6 +151,9 @@ Implemented implicit waits for handling dynamic loading.
 
 # Folder Structure
 
+# Folder Structure
+
+```text
 LoginTestingProject
 │
 ├── src
@@ -164,6 +167,8 @@ LoginTestingProject
 ├── README.md
 ├── .gitignore
 └── target
+```
+
 
 ---
 
