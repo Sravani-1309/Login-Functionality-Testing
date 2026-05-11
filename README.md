@@ -166,7 +166,7 @@ LoginTestingProject
 ├── Testing_Documentation.xlsx
 ├── README.md
 ├── .gitignore
-└── target
+    └── target
 ```
 
 
